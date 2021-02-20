@@ -30,6 +30,16 @@ while True:
     if x_axis == 660 and y_axis == 235:
         KeyAlphabet(x_axis, y_axis, w +10, h)
 
+if x_axis == 30 and y_axis == 235:
+        KeyAlphabet(x_axis, y_axis, w*4+40, h)
+    if x_axis == 315 and y_axis == 235:
+        KeyAlphabet(x_axis, y_axis, w * 3-5, h)
+    if x_axis == 510 and y_axis == 235:
+        KeyAlphabet(x_axis, y_axis, w+10 , h)
+    if x_axis == 585 and y_axis == 235:
+        KeyAlphabet(x_axis, y_axis, w+10 , h)
+    if x_axis == 660 and y_axis == 235:
+        KeyAlphabet(x_axis, y_axis, w +10, h)
 
   
         
